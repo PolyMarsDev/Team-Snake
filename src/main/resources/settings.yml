@@ -1,0 +1,6 @@
+settings:
+  mediumServer: 750
+  bigServer: 1500
+  smallPlayer: 5
+  mediumPlayer: 20
+  bigPlayer: 50
